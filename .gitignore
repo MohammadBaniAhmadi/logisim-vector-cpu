@@ -1,0 +1,13 @@
+# Common editor and operating-system files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Temporary build/backup artifacts
+*.bak
+*.tmp
+*.log
